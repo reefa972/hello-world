@@ -43,7 +43,7 @@ Minnesota, Gophers, MINN, Midwest, 7A0019, FFCC33, 68, MN, MN.ND.SD;
 Nebraska, Huskers, NEB, Midwest, E41C38, FFFFFF, 60, NE, NE.IA;
 Ohio State, Buckeyes, OSU, Midwest, BB0000, 666666, 72, OH, OH;
 Notre Dame, Fighting Irish, NDU, Midwest, 0C2340, C99700, 76, IN, IN.MI.IL;
-Rutgers, Scarlet Knights, RUT, Midwest, CC0033, 5F6A72, 46, NJ, NJ;
+Rutgers, Scarlet Knights, RUT, Midwest, CC0033, 5F6A72, 80, NJ, NJ;
 Iowa, Hawkeyes, IOWA, Midwest, FFCD00, 000000, 70, IA, IA;
 Penn State, Lions, PSU, Midwest, 093162, FFFFFF, 58, PA, PA.OH;
 Marquette, Eagles, MARQ, Midwest, 003366, FFCC00, 56, WI, WI;
